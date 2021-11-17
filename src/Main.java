@@ -16,7 +16,7 @@ public class Main {
         fileManeger.deletePerson(p2);
         System.out.println(fileManeger.getAllPersons());
        /*
-
+             //t thsfdsgr
           // new test
         System.out.println(fileManeger.getPerosn(1));
         Person p = new Person(1 , "Jeppe");
